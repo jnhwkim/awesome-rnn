@@ -332,13 +332,13 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Mengye Ren, Ryan Kiros, and Richard Zemel, *Exploring Models and Data for Image Question Answering*, arXiv:1505.02074 / ICML 2015 deep learning workshop
 * Baidu + UCLA [[Paper](http://arxiv.org/pdf/1505.05612)] [[Dataset]()]
   * Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, and Wei Xu, *Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering*, arXiv:1505.05612 / NIPS 2015
-* SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
-  * Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
-* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
-  * Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)] [[Code](https://github.com/jnhwkim/nips-mrn-vqa)]
+  * Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455 / NIPS 2016
+* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)] [[Code](https://github.com/akirafukui/vqa-mcb)]
+  * Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847 / EMNLP 2016
 * Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
   * Hyeonwoo Noh and Bohyung Han, *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
-* SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)] [[Code](https://github.com/jnhwkim/MulLowBiVQA)]
   * Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325
 * Video QA
   * CMU + UTS [[paper](http://arxiv.org/abs/1511.04670)]
